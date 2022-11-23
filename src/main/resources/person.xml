@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <firstName>James</firstName>
+    <lastName>Bond</lastName>
+    <title>007</title>
+    <line>content of "line" tags</line>
+</person>
